@@ -7,4 +7,4 @@ The [movieClass](https://github.com/rachitbhutani1998/ud036_StarterCode/blob/mas
 
 Then the list of movies is prepared and passed to the [fresh_tomatoes](https://github.com/rachitbhutani1998/ud036_StarterCode/blob/master/fresh_tomatoes.py) python file which creates a webpage for the movies from the list obtained.
 
-[Click here](https://github.com/rachitbhutani1998/ud036_StarterCode/blob/master/fresh_tomatoes.html) to visit the webpage created.
+To run the code on your machine, clone or download the repository. Then open the [fresh_tomaotes.html](https://github.com/rachitbhutani1998/ud036_StarterCode/blob/master/fresh_tomatoes.html) file to visit the web page created or open [movies.py](https://github.com/rachitbhutani1998/ud036_StarterCode/blob/master/movies.py)
